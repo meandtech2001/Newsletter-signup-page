@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f3e6e8;
+  background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+
+.form-signin  {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.middle {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.bottom {
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
